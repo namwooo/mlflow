@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/1eee65b4f38542beae8d6f55008e2542/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1eee65b4f38542beae8d6f55008e2542
+run_uuid: 1eee65b4f38542beae8d6f55008e2542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654185402503
+status: 1
+tags: []
+user_id: luca

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/luca/Projects/mlflow/sklearn_elasticnet_win/mlruns/0/d1193e34f3f54f099f65ec41734e5740/artifacts
+end_time: 1654184332435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d1193e34f3f54f099f65ec41734e5740
+run_uuid: d1193e34f3f54f099f65ec41734e5740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654184330808
+status: 3
+tags: []
+user_id: luca
